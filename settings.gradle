@@ -1,0 +1,2 @@
+rootProject.name = "CardMine"
+include ':app'
