@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">CardMine</string>
     <string name="labal_card">Cartão de visita</string>
+    <string name="add_card">Adicionar cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_email">Email</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="lavel_cor">Cor</string>
+    <string name="label_confirm">Confirmar</string>
+    <string name="create_success">Sucesso ao criar</string>
+    <string name="share">Compartilhar</string>
 </resources>
